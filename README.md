@@ -3,8 +3,17 @@
 🎲 Board and Card Game Collection (Updated)
 
 - Abducktion
+
+  A fast, strategic game where players act as interns at an alien lab, racing to arrange plastic ducks into specific formations on their boards using action cards and a silicone UFO to randomize pieces.  Designed for 1-4 players (expandable to 6) and ages 12+, it balances simple rules with deep spatial reasoning and friendly sabotage, typically lasting 15-25 minutes.
+
 - A Little Wordy
+
+  A two-player or two-team deduction game where opponents create secret words from a mix of vowels and consonants, then use clue cards to guess each other’s words while managing a "berries" economy.  Designed by Ian Clayman and Matthew Inman and published by Exploding Kittens in 2021, it blends vocabulary knowledge with tactical risk assessment, as using powerful clues costs berries that can be stolen if the opponent guesses first.
+  
 - Anomia
+
+  A high-pressure party game based on the phenomenon of word-finding difficulty under stress, where players flip cards and must quickly shout out an example of a category if their card’s symbol matches an opponent’s.  The game features cascading face-offs and wild cards, encouraging chaotic, energetic gameplay where having broad general knowledge is more valuable than deep expertise in any single area.
+
 - Apollo: NASA Moon Missions
 - Apples to Apples (Party Box)
 - Battleship (Electronic)
